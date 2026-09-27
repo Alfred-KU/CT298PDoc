@@ -14,7 +14,6 @@ __pycache__/
 .DS_Store
 
 .env
-.jpynb_checkpoints
-/*/.jpynb_checkpoints
-/*/*/.jpynb_checkpoints
-
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
