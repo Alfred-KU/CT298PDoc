@@ -1,6 +1,3 @@
-https://github.com/Alfred-KU/CT298PDoc
-
-
 Summary -
 ## Changes made
 
