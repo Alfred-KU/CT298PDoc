@@ -1,0 +1,12 @@
+#  ipynb		Code		Years
+1. DA-LSTMwYF-AAPL	AAPL		8
+2. DA-LSTMwYF-5yrs	^hsi		5
+3. DA-LSTMwYFinance1	0005.HK		1
+4. DA-LSTMwYFinance2	0700.HK 	2
+5. DA-LSTMwYFinance3	^GSPC		3
+
+
+*** quoted reference in the report
+
+https://www.kaggle.com/code/thibauthurson/stock-price-prediction-with-lstm-multi-step-lstm
+
